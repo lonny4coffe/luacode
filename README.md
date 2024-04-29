@@ -1,0 +1,2 @@
+# luacode
+lua simple code
